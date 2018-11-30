@@ -1,6 +1,6 @@
-token=NTE3NTU3MDUxNDMwNTM1MTY5.DuItXg.IAlt_zz9Zlnrd-AoKvb924kAc-8
+token=NTE3NTQxMzQ3OTE0MTUzOTg1.DuItYQ.7YGn0mLD-GfzLwbdMd7UiYpKOQE
 owner=489379054584201247 
 prefix= 1
-game= !thelp
+game= 1play
 stayinchannel=true
 songinstatus=true 
